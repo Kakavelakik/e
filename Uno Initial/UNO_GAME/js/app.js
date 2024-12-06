@@ -14,6 +14,7 @@ const drawPileDom = document.querySelector('.draw-pile')
 
 const playerUno = document.querySelector('.player-animation')
 const cpuUno = document.querySelector('.cpu-animation')
+const cpu2Uno = document.querySelector('.cpu-animation')
 
 // hand arrays
 const cpuHand = []
